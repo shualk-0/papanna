@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Particle Flow",
+  "description": "A real-time 3D particle system controlled by hand gestures via the Gemini Live API. Switch shapes, change colors, and use your webcam to expand or contract the galaxy.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
